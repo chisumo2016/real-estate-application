@@ -1,6 +1,6 @@
 
-#Real Estate Property - Laravel 6 
-    #Technology Used 
+# Real Estate Property - Laravel 6 
+    # Technology Used 
       - Laravel 6
       -Booostrap 4 
       -CSS3
@@ -8,7 +8,7 @@
       -Jquery
       -SEO  -slugg in URLs
       
-#Installation Instruction
+# Installation Instruction
 
 -Clone the repository with git clone
 -Copy .env.example file to .env and edit database credentials there
